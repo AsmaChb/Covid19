@@ -1,4 +1,4 @@
-# Covid 19
+# COVID-19
 Prediction of Covid-19 cases based on blood sample data
 
 ## Dataset
